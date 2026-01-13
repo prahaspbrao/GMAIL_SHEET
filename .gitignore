@@ -1,0 +1,9 @@
+# OAuth & secrets
+credentials/credentials.json
+credentials/
+token.json
+state.json
+
+# Virtual environments
+venv/
+.venv/
